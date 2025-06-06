@@ -18,7 +18,7 @@ Este repositorio contiene el código fuente, estructura y resultados del Trabajo
 | `graficos_train_reconstruccion`              | `/graficas/resultados_modelo/train/reconstruccion`        | Reconstrucciones híbridas finales en entrenamiento                              |
 | `graficos_test_dispersion`                   | `/graficas/resultados_modelo/test/dispersion`             | Gráficos de dispersión (predicción vs. real) para prueba                        |
 | `graficos_test_reconstruccion`               | `/graficas/resultados_modelo/test/reconstruccion`         | Reconstrucciones híbridas finales en conjunto de prueba                         |
-| `predicciones_futuras`                       | `/predicciones/futuro`                                    | Resultados de las predicciones a futuro (hasta 36 meses) por estación           |
+| `predicciones_futuras`                       | `/predicciones/futuro`                                    | Resultados de las predicciones a futuro (hasta 35 meses) por estación           |
 
 ## ⚙️ Requisitos
 
